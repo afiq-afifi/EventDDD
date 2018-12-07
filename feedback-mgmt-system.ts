@@ -30,6 +30,7 @@ enum SponsorshipType {
     PLATINUM,
     GOLD,
     SILVER,
+    TOYOTA,
 }
 
 interface Sponsor {
